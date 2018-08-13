@@ -1,0 +1,326 @@
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\MapAirportRoute.Android.dll
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\MapAirportRoute.Android.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\com.companyname.MapAirportRoute.apk
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\com.companyname.MapAirportRoute-Signed.apk
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\MapAirportRoute.dll
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\MapAirportRoute.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\MapAirportRoute.Android.csprojAssemblyReference.cache
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\MapAirportRoute.Android.csproj.CoreCompileInputs.cache
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\MapAirportRoute.Android.csproj.CopyComplete
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\MapAirportRoute.Android.dll
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\MapAirportRoute.Android.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\bin\com.companyname.MapAirportRoute.apk
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\res\layout\tabbar.xml
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\res\layout\toolbar.xml
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\res\values\styles.xml
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\res\values\colors.xml
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\res\mipmap-anydpi-v26\icon.xml
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\res\mipmap-anydpi-v26\icon_round.xml
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\res\mipmap-hdpi\icon.png
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\res\mipmap-hdpi\launcher_foreground.png
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\res\mipmap-mdpi\icon.png
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\res\mipmap-mdpi\launcher_foreground.png
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\res\mipmap-xhdpi\icon.png
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\res\mipmap-xhdpi\launcher_foreground.png
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\res\mipmap-xxhdpi\icon.png
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\res\mipmap-xxhdpi\launcher_foreground.png
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\res\mipmap-xxxhdpi\icon.png
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\res\mipmap-xxxhdpi\launcher_foreground.png
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\R.cs.flag
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\R.txt
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\uploadflags.txt
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\Mono.Android.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\mscorlib.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\System.Core.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\System.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\System.Xml.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\System.Xml.Linq.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\Xamarin.Forms.Core.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\System.ComponentModel.Composition.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\System.Data.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\System.Numerics.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\System.Transactions.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\System.IO.Compression.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\System.Net.Http.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\System.Runtime.Serialization.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\System.ServiceModel.Internals.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\System.Web.Services.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\Mono.Security.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\MapAirportRoute.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\Mono.Android.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\mscorlib.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\System.Core.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\System.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\System.Xml.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\System.Xml.Linq.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\Xamarin.Forms.Core.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\Xamarin.Forms.Xaml.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\System.Data.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\System.Numerics.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\System.Transactions.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\System.IO.Compression.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\System.Net.Http.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\System.Web.Services.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\Mono.Security.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\FormsViewGroup.dll.mdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\MapAirportRoute.Android.dll.mdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\MapAirportRoute.Android.dll.mdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\MapAirportRoute.Android.dll.mdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\MapAirportRoute.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\Mono.Android.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\Mono.Security.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\mscorlib.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\System.Core.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\System.Data.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\System.IO.Compression.FileSystem.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\System.IO.Compression.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\System.Net.Http.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\System.Numerics.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\System.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\System.Transactions.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\System.Web.Services.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\System.Xml.Linq.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\System.Xml.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\Xamarin.Forms.Core.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\SQLite-net.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\SQLite-net.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\SQLite-net.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\MapAirportRoute.Android.dll
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\MapAirportRoute.Android.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\MapAirportRoute.dll
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\MapAirportRoute.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\MapAirportRoute.Android.csprojAssemblyReference.cache
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\MapAirportRoute.Android.csproj.CoreCompileInputs.cache
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\MapAirportRoute.Android.csproj.CopyComplete
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\MapAirportRoute.Android.dll
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\MapAirportRoute.Android.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\res\layout\tabbar.xml
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\res\layout\toolbar.xml
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\res\values\styles.xml
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\res\values\colors.xml
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\res\mipmap-anydpi-v26\icon.xml
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\res\mipmap-anydpi-v26\icon_round.xml
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\res\mipmap-hdpi\icon.png
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\res\mipmap-hdpi\launcher_foreground.png
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\res\mipmap-mdpi\icon.png
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\res\mipmap-mdpi\launcher_foreground.png
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\res\mipmap-xhdpi\icon.png
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\res\mipmap-xhdpi\launcher_foreground.png
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\res\mipmap-xxhdpi\icon.png
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\res\mipmap-xxhdpi\launcher_foreground.png
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\res\mipmap-xxxhdpi\icon.png
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\R.cs.flag
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\R.txt
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\uploadflags.txt
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\XamlC.stamp
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\com.Priyansh.MapAirportRoute.apk
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\com.Priyansh.MapAirportRoute-Signed.apk
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\bin\com.Priyansh.MapAirportRoute.apk
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Basement.dll
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Base.dll
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Maps.dll
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\Microsoft.CSharp.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\Mono.Android.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\mscorlib.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\SQLite-net.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\System.Core.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\System.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\System.Xml.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\System.Xml.Linq.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\System.Data.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\System.Numerics.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\System.Transactions.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\System.IO.Compression.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\System.Net.Http.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\System.Runtime.Serialization.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\System.Web.Services.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\Mono.Security.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\MapAirportRoute.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\Microsoft.CSharp.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\Mono.Android.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\mscorlib.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\SQLite-net.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\System.Core.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\System.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\System.Xml.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\System.Xml.Linq.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\Xamarin.Forms.Core.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\Xamarin.Forms.Xaml.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\System.Data.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\System.Numerics.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\System.Transactions.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\System.IO.Compression.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\System.Web.Services.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\Mono.Security.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\MapAirportRoute.Android.dll.mdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\MapAirportRoute.Android.dll.mdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\MapAirportRoute.Android.dll.mdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\MapAirportRoute.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\Microsoft.CSharp.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\Mono.Android.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\Mono.Security.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\mscorlib.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\SQLite-net.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\System.Core.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\System.Data.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\System.IO.Compression.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\System.Net.Http.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\System.Numerics.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\System.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\System.Transactions.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\System.Web.Services.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\System.Xml.Linq.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\System.Xml.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\Xamarin.Forms.Core.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\MapAirportRoute.Android.dll
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\MapAirportRoute.Android.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\com.Priyansh.MapAirportRoute.apk
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\com.Priyansh.MapAirportRoute-Signed.apk
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\MapAirportRoute.dll
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\MapAirportRoute.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\MapAirportRoute.Android.csprojAssemblyReference.cache
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Basement.dll
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Base.dll
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Maps.dll
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\MapAirportRoute.Android.csproj.CoreCompileInputs.cache
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\XamlC.stamp
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\MapAirportRoute.Android.csproj.CopyComplete
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\MapAirportRoute.Android.dll
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\MapAirportRoute.Android.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\bin\com.Priyansh.MapAirportRoute.apk
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\res\layout\tabbar.xml
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\res\layout\toolbar.xml
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\res\values\styles.xml
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\res\values\colors.xml
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\res\mipmap-anydpi-v26\icon.xml
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\res\mipmap-anydpi-v26\icon_round.xml
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\res\mipmap-hdpi\icon.png
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\res\mipmap-hdpi\launcher_foreground.png
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\res\mipmap-mdpi\icon.png
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\res\mipmap-mdpi\launcher_foreground.png
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\res\mipmap-xhdpi\icon.png
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\res\mipmap-xhdpi\launcher_foreground.png
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\res\mipmap-xxhdpi\icon.png
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\res\mipmap-xxhdpi\launcher_foreground.png
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\res\mipmap-xxxhdpi\icon.png
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\R.cs.flag
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\R.txt
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\uploadflags.txt
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\Microsoft.CSharp.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\Mono.Android.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\Mono.Security.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\mscorlib.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\SQLite-net.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\System.ComponentModel.Composition.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\System.Core.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\System.Data.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\System.IO.Compression.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\System.Net.Http.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\System.Numerics.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\System.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\System.Runtime.Serialization.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\System.ServiceModel.Internals.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\System.Transactions.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\System.Web.Services.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\System.Xml.Linq.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\System.Xml.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\MapAirportRoute.Android.dll.mdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\MapAirportRoute.Android.dll.mdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\MapAirportRoute.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\Microsoft.CSharp.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\Mono.Android.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\Mono.Security.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\mscorlib.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\SQLite-net.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\System.Core.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\System.Data.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\System.IO.Compression.FileSystem.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\System.IO.Compression.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\System.Net.Http.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\System.Numerics.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\System.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\System.Transactions.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\System.Web.Services.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\System.Xml.Linq.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\System.Xml.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\Xamarin.Forms.Core.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\MapAirportRoute.Android.dll.mdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\MapAirportRoute.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\Microsoft.CSharp.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\Mono.Android.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\Mono.Security.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\mscorlib.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\SQLite-net.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\System.Core.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\System.Data.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\System.IO.Compression.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\System.Net.Http.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\System.Numerics.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\System.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\System.Transactions.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\System.Web.Services.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\System.Xml.Linq.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\System.Xml.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\Xamarin.Forms.Core.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\Xamarin.Forms.Xaml.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\bin\Debug\MapAirportRoute.Android.dll
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\MapAirportRoute.Android.dll.mdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb

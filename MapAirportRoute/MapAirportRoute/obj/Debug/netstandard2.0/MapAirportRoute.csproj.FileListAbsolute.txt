@@ -1,0 +1,35 @@
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute\bin\Debug\netstandard2.0\MapAirportRoute.deps.json
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute\bin\Debug\netstandard2.0\MapAirportRoute.dll
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute\bin\Debug\netstandard2.0\MapAirportRoute.pdb
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute\obj\Debug\netstandard2.0\MapAirportRoute.csprojAssemblyReference.cache
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute\obj\Debug\netstandard2.0\MapAirportRoute.csproj.CoreCompileInputs.cache
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute\obj\Debug\netstandard2.0\MapAirportRoute.AssemblyInfoInputs.cache
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute\obj\Debug\netstandard2.0\MapAirportRoute.AssemblyInfo.cs
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute\obj\Debug\netstandard2.0\MapAirportRoute.dll
+E:\GuestLogix\MapAirportRoute\MapAirportRoute\MapAirportRoute\obj\Debug\netstandard2.0\MapAirportRoute.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute\bin\Debug\netstandard2.0\MapAirportRoute.deps.json
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute\bin\Debug\netstandard2.0\MapAirportRoute.dll
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute\bin\Debug\netstandard2.0\MapAirportRoute.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute\obj\Debug\netstandard2.0\MapAirportRoute.csproj.CoreCompileInputs.cache
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute\obj\Debug\netstandard2.0\MapAirportRoute.AssemblyInfoInputs.cache
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute\obj\Debug\netstandard2.0\MapAirportRoute.AssemblyInfo.cs
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute\obj\Debug\netstandard2.0\MapAirportRoute.dll
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute\obj\Debug\netstandard2.0\MapAirportRoute.pdb
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute\obj\Debug\netstandard2.0\MapAirportRoute.csprojAssemblyReference.cache
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute\obj\Debug\netstandard2.0\ViewMapPath.xaml.g.cs
+C:\Frendel Projects\MapAirportRoute\MapAirportRoute\MapAirportRoute\obj\Debug\netstandard2.0\XamlC.stamp
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute\bin\Debug\netstandard2.0\MapAirportRoute.deps.json
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute\bin\Debug\netstandard2.0\MapAirportRoute.dll
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute\bin\Debug\netstandard2.0\MapAirportRoute.pdb
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute\obj\Debug\netstandard2.0\MapAirportRoute.csprojAssemblyReference.cache
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute\obj\Debug\netstandard2.0\ViewMapPath.xaml.g.cs
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute\obj\Debug\netstandard2.0\MapAirportRoute.csproj.CoreCompileInputs.cache
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute\obj\Debug\netstandard2.0\MapAirportRoute.AssemblyInfoInputs.cache
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute\obj\Debug\netstandard2.0\MapAirportRoute.AssemblyInfo.cs
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute\obj\Debug\netstandard2.0\XamlC.stamp
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute\obj\Debug\netstandard2.0\MapAirportRoute.dll
+C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute\obj\Debug\netstandard2.0\MapAirportRoute.pdb

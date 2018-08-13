@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:MapAirportRoute"
+             x:Class="MapAirportRoute.MainPage"
+             Title="Airports IATA FORM"
+             Padding="0, 20, 0, 0">
+
+    <StackLayout>
+        <!--<Button Text="Press IF no Records Found in Picker" BackgroundColor="LightGreen" TextColor="Black" Clicked="OnInsertAllAirports" /> -->
+        <Label Text="Origin IATA Code : " FontSize="Medium" FontAttributes="Bold" />
+        <Entry Placeholder="Enter Origin IATA" x:Name="txtOriginIATA"/>
+        <!--<Picker Title="Select Origin IATA"
+                VerticalOptions="CenterAndExpand"
+                x:Name="prOriginIATA"
+                BackgroundColor="LightGray"
+                Margin="10, -20, 10, 0"
+                SelectedIndexChanged ="prOriginIATA_SelectedIndexChanged">
+            <Picker.Items>
+                <x:String>GKA</x:String>
+                <x:String>MAG</x:String>
+                <x:String>HGU</x:String>
+                <x:String>LAE</x:String>
+                <x:String>POM</x:String>
+                <x:String>WWK</x:String>
+                <x:String>UAK</x:String>
+                <x:String>GOH</x:String>
+                <x:String>SFJ</x:String>
+                <x:String>THU</x:String>
+                <x:String>AEY</x:String>
+                <x:String>EGS</x:String>
+                <x:String>HFN</x:String>
+                <x:String>HZK</x:String>
+                <x:String>IFJ</x:String>
+                <x:String>KEF</x:String>
+            </Picker.Items>
+        </Picker> -->
+        
+        <Label Text="Destination IATA Code : " FontSize="Medium" FontAttributes="Bold"/>
+        <Entry Placeholder="Enter Destination IATA" x:Name="txtDestinationIATA"/>
+        <!--<Picker Title="Select Destination IATA"
+                VerticalOptions="CenterAndExpand"
+                x:Name="prDestinationIATA"
+                BackgroundColor="LightGray"
+                Margin="10, -20, 10, 0"
+                SelectedIndexChanged="prDestinationIATA_SelectedIndexChanged">
+            <Picker.Items>
+                <x:String>GKA</x:String>
+                <x:String>MAG</x:String>
+                <x:String>HGU</x:String>
+                <x:String>LAE</x:String>
+                <x:String>POM</x:String>
+                <x:String>WWK</x:String>
+                <x:String>UAK</x:String>
+                <x:String>GOH</x:String>
+                <x:String>SFJ</x:String>
+                <x:String>THU</x:String>
+                <x:String>AEY</x:String>
+                <x:String>EGS</x:String>
+                <x:String>HFN</x:String>
+                <x:String>HZK</x:String>
+                <x:String>IFJ</x:String>
+                <x:String>KEF</x:String>
+            </Picker.Items>
+        </Picker> -->
+        <Button Text="Show Routes" x:Name="btnShowRoutes" BackgroundColor="LightGreen" TextColor="Black" Clicked="btnShowRoutes_Clicked" />
+        <StackLayout Orientation="Horizontal" VerticalOptions="EndAndExpand">
+            <Entry Placeholder="Please Enter Feedback" x:Name="txtFeedback" HorizontalOptions="FillAndExpand"/>
+            <Button Text="Submit" FontSize="Medium" FontAttributes="Bold" x:Name="btnSubmitFeedback" Clicked="btnSubmitFeedback_Clicked" BackgroundColor="LightBlue"/>
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>

@@ -1388,11 +1388,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GuestLogix\\MapAirportRoute-master\\MapAirportRoute\\MapAirportRoute.iOS\\MapAirportRoute.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Priyansh\\source\\repos\\MapAirportRoute\\MapAirportRoute\\MapAirportRoute.iOS\\MapAirportRoute.iOS.csproj",
       "projectName": "MapAirportRoute.iOS",
-      "projectPath": "C:\\GuestLogix\\MapAirportRoute-master\\MapAirportRoute\\MapAirportRoute.iOS\\MapAirportRoute.iOS.csproj",
+      "projectPath": "C:\\Users\\Priyansh\\source\\repos\\MapAirportRoute\\MapAirportRoute\\MapAirportRoute.iOS\\MapAirportRoute.iOS.csproj",
       "packagesPath": "C:\\Users\\Priyansh\\.nuget\\packages\\",
-      "outputPath": "C:\\GuestLogix\\MapAirportRoute-master\\MapAirportRoute\\MapAirportRoute.iOS\\obj\\",
+      "outputPath": "C:\\Users\\Priyansh\\source\\repos\\MapAirportRoute\\MapAirportRoute\\MapAirportRoute.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -1409,8 +1409,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\GuestLogix\\MapAirportRoute-master\\MapAirportRoute\\MapAirportRoute\\MapAirportRoute.csproj": {
-              "projectPath": "C:\\GuestLogix\\MapAirportRoute-master\\MapAirportRoute\\MapAirportRoute\\MapAirportRoute.csproj"
+            "C:\\Users\\Priyansh\\source\\repos\\MapAirportRoute\\MapAirportRoute\\MapAirportRoute\\MapAirportRoute.csproj": {
+              "projectPath": "C:\\Users\\Priyansh\\source\\repos\\MapAirportRoute\\MapAirportRoute\\MapAirportRoute\\MapAirportRoute.csproj"
             }
           }
         }

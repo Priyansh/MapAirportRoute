@@ -1198,11 +1198,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GuestLogix\\MapAirportRoute-master\\MapAirportRoute\\MapAirportRoute.Android\\MapAirportRoute.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Priyansh\\source\\repos\\MapAirportRoute\\MapAirportRoute\\MapAirportRoute.Android\\MapAirportRoute.Android.csproj",
       "projectName": "MapAirportRoute.Android",
-      "projectPath": "C:\\GuestLogix\\MapAirportRoute-master\\MapAirportRoute\\MapAirportRoute.Android\\MapAirportRoute.Android.csproj",
+      "projectPath": "C:\\Users\\Priyansh\\source\\repos\\MapAirportRoute\\MapAirportRoute\\MapAirportRoute.Android\\MapAirportRoute.Android.csproj",
       "packagesPath": "C:\\Users\\Priyansh\\.nuget\\packages\\",
-      "outputPath": "C:\\GuestLogix\\MapAirportRoute-master\\MapAirportRoute\\MapAirportRoute.Android\\obj\\",
+      "outputPath": "C:\\Users\\Priyansh\\source\\repos\\MapAirportRoute\\MapAirportRoute\\MapAirportRoute.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -1219,8 +1219,8 @@
       "frameworks": {
         "monoandroid71": {
           "projectReferences": {
-            "C:\\GuestLogix\\MapAirportRoute-master\\MapAirportRoute\\MapAirportRoute\\MapAirportRoute.csproj": {
-              "projectPath": "C:\\GuestLogix\\MapAirportRoute-master\\MapAirportRoute\\MapAirportRoute\\MapAirportRoute.csproj"
+            "C:\\Users\\Priyansh\\source\\repos\\MapAirportRoute\\MapAirportRoute\\MapAirportRoute\\MapAirportRoute.csproj": {
+              "projectPath": "C:\\Users\\Priyansh\\source\\repos\\MapAirportRoute\\MapAirportRoute\\MapAirportRoute\\MapAirportRoute.csproj"
             }
           }
         }

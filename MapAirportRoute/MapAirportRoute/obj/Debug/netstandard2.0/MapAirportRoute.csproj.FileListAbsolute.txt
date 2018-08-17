@@ -33,3 +33,16 @@ C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirport
 C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute\obj\Debug\netstandard2.0\XamlC.stamp
 C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute\obj\Debug\netstandard2.0\MapAirportRoute.dll
 C:\GuestLogix\mobile-take-home-master\MapAirportRoute\MapAirportRoute\MapAirportRoute\obj\Debug\netstandard2.0\MapAirportRoute.pdb
+C:\Users\Priyansh\source\repos\MapAirportRoute\MapAirportRoute\MapAirportRoute\bin\Debug\netstandard2.0\MapAirportRoute.deps.json
+C:\Users\Priyansh\source\repos\MapAirportRoute\MapAirportRoute\MapAirportRoute\bin\Debug\netstandard2.0\MapAirportRoute.dll
+C:\Users\Priyansh\source\repos\MapAirportRoute\MapAirportRoute\MapAirportRoute\bin\Debug\netstandard2.0\MapAirportRoute.pdb
+C:\Users\Priyansh\source\repos\MapAirportRoute\MapAirportRoute\MapAirportRoute\obj\Debug\netstandard2.0\MapAirportRoute.csprojAssemblyReference.cache
+C:\Users\Priyansh\source\repos\MapAirportRoute\MapAirportRoute\MapAirportRoute\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Priyansh\source\repos\MapAirportRoute\MapAirportRoute\MapAirportRoute\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Priyansh\source\repos\MapAirportRoute\MapAirportRoute\MapAirportRoute\obj\Debug\netstandard2.0\ViewMapPath.xaml.g.cs
+C:\Users\Priyansh\source\repos\MapAirportRoute\MapAirportRoute\MapAirportRoute\obj\Debug\netstandard2.0\MapAirportRoute.csproj.CoreCompileInputs.cache
+C:\Users\Priyansh\source\repos\MapAirportRoute\MapAirportRoute\MapAirportRoute\obj\Debug\netstandard2.0\MapAirportRoute.AssemblyInfoInputs.cache
+C:\Users\Priyansh\source\repos\MapAirportRoute\MapAirportRoute\MapAirportRoute\obj\Debug\netstandard2.0\MapAirportRoute.AssemblyInfo.cs
+C:\Users\Priyansh\source\repos\MapAirportRoute\MapAirportRoute\MapAirportRoute\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Priyansh\source\repos\MapAirportRoute\MapAirportRoute\MapAirportRoute\obj\Debug\netstandard2.0\MapAirportRoute.dll
+C:\Users\Priyansh\source\repos\MapAirportRoute\MapAirportRoute\MapAirportRoute\obj\Debug\netstandard2.0\MapAirportRoute.pdb

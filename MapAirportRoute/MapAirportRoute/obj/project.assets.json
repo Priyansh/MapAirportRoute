@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GuestLogix\\MapAirportRoute-master\\MapAirportRoute\\MapAirportRoute\\MapAirportRoute.csproj",
+      "projectUniqueName": "C:\\Users\\Priyansh\\source\\repos\\MapAirportRoute\\MapAirportRoute\\MapAirportRoute\\MapAirportRoute.csproj",
       "projectName": "MapAirportRoute",
-      "projectPath": "C:\\GuestLogix\\MapAirportRoute-master\\MapAirportRoute\\MapAirportRoute\\MapAirportRoute.csproj",
+      "projectPath": "C:\\Users\\Priyansh\\source\\repos\\MapAirportRoute\\MapAirportRoute\\MapAirportRoute\\MapAirportRoute.csproj",
       "packagesPath": "C:\\Users\\Priyansh\\.nuget\\packages\\",
-      "outputPath": "C:\\GuestLogix\\MapAirportRoute-master\\MapAirportRoute\\MapAirportRoute\\obj\\",
+      "outputPath": "C:\\Users\\Priyansh\\source\\repos\\MapAirportRoute\\MapAirportRoute\\MapAirportRoute\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
